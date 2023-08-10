@@ -21,14 +21,12 @@ I'm currently working on developing Computer Vision & Machine Learning <br>Syste
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OmarMed21&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OmarMed21&icon=2&color=9)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Omar Medhat Aly) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/omarmedhataly) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
