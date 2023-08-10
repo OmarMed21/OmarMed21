@@ -1,5 +1,6 @@
 # 💫 About Me:
 🎲 <strong>I'm currently working on developing Computer Vision & Machine Learning <br>Systems in Electrical Vehicles, building magnificent Software Systems like GUIs , APIs integrated with Electrical Motors & Drives , I'm also working on <br>building a Professional Management Systems with Excel to Track the Process of our Organisation using Advanced Techniques like VBA.</strong>
+
 🎲 <strong> I'm currently learning Numerical Analysis, Software Development & Core Data Science, C++ with Algorithms, OOP & Data Structures, API Development, QT GUI, Networking & Communication, Core Computer Vision & GANs</strong>
 
 
