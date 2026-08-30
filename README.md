@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A2E,45:12706B,100:DD5C34&height=210&section=header&text=Omar%20Medhat&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%C2%B7%20APIs%20%C2%B7%20Enterprise%20Integration&descAlignY=54&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A2E,45:12706B,100:DD5C34&height=210&section=header&text=Omar%20Ismail&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%C2%B7%20APIs%20%C2%B7%20Enterprise%20Integration&descAlignY=54&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=12706B&center=true&vCenter=true&width=620&lines=Working+Student+IT+Developer+%40+Telinage+GmbH;International+Information+Systems+%40+THA+Augsburg;Building+toward+SAP+BTP+Integration;Java+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Linux" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=12706B&center=true&vCenter=true&width=640&lines=Working+Student+IT+Developer+%40+Telinage+GmbH;International+Information+Systems+%40+TH+Augsburg;Building+toward+SAP+BTP+Integration;Java+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Linux" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Augsburg,%20Germany-12706B?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Working%20Student%20IT%20Developer%20%40%20Telinage%20GmbH-DD5C34?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Telinage%20GmbH-DD5C34?style=for-the-badge" />
 
 <br/>
 
@@ -18,12 +18,14 @@
 
 </div>
 
+<br/>
+
 ## `>` About
 
 ```yaml
 name:      Omar Ismail
 role:      Working Student IT Developer @ Telinage GmbH
-study:     International Information Systems · TH Augsburg
+study:     B.Sc. International Information Systems · TH Augsburg
 location:  Augsburg, Germany
 focus:     backend services, APIs, and the layer where systems talk to each other
 now:       relearning fundamentals properly — daily algorithms in Java, by hand
@@ -32,6 +34,35 @@ languages: Arabic (native) · English (fluent) · German (B2 → C1)
 ```
 
 I build the plumbing between systems. Most software problems I find interesting are integration problems — two systems that need to agree on something, and don't.
+
+<br/>
+
+## `>` Education
+
+<table>
+<tr>
+<td width="120" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/TH-Augsburg-C8102E?style=for-the-badge" /><br/>
+<sub>**2025 – 2029**</sub>
+
+</td>
+<td valign="top">
+
+### B.Sc. International Information Systems
+**Technische Hochschule Augsburg** · Faculty of Computer Science
+
+An English-taught programme combining computer science with business processes and enterprise systems — the exact intersection that enterprise integration work sits in.
+
+**Core modules**
+`Programming & Software Engineering` `Database Systems` `Enterprise Systems Implementation`
+`Enterprise Systems Programming` `Business Process Modelling` `Applied AI` `Data Analytics`
+
+**Practical semester** — 20-week industry placement · **Thesis** — 2029
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -115,6 +146,21 @@ Hands-on experiments: iFlows, OAuth2 flows, and hybrid connectivity patterns.
 
 <br/>
 
+## `>` Roadmap
+
+<div align="center">
+
+| | Certification | Status |
+|:--|:--|:--|
+| **2026** | telc Deutsch B2 | `in progress` |
+| **2027** | SAP Integration Developer · SAP BTP Administration · SAP CAP | `planned` |
+| **2028** | telc Deutsch C1 · SAP Business Process Integration | `planned` |
+| **2029** | SAP S/4HANA Sourcing & Procurement · ABAP Cloud (RAP) | `planned` |
+
+</div>
+
+<br/>
+
 ## `>` Activity
 
 <div align="center">
@@ -143,17 +189,20 @@ Hands-on experiments: iFlows, OAuth2 flows, and hybrid connectivity patterns.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OmarMed21&show_icons=true&hide_border=true&title_color=12706B&icon_color=DD5C34&text_color=8B949E&bg_color=0D1117&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMed21&layout=compact&hide_border=true&title_color=12706B&text_color=8B949E&bg_color=0D1117&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmarMed21&show_icons=true&hide_border=true&title_color=12706B&icon_color=DD5C34&text_color=8B949E&bg_color=0D1117&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMed21&layout=compact&hide_border=true&title_color=12706B&text_color=8B949E&bg_color=0D1117&langs_count=8&cache_seconds=86400" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=OmarMed21&hide_border=true&background=0D1117&stroke=21262D&ring=DD5C34&fire=DD5C34&currStreakLabel=12706B&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
 
 <br/><br/>
 
-<!-- Snake animation — set up the Platane/snk GitHub Action to generate these -->
-<img src="https://raw.githubusercontent.com/OmarMed21/OmarMed21/output/snake.svg" alt="Contribution snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarMed21/OmarMed21/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarMed21/OmarMed21/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/OmarMed21/OmarMed21/output/snake.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -161,11 +210,15 @@ Hands-on experiments: iFlows, OAuth2 flows, and hybrid connectivity patterns.
 
 ## `>` Reading
 
+<div align="center">
+
 | | |
 |:--|:--|
 | **Now** | The Linux Command Line · SAP S/4HANA: An Introduction |
 | **Next** | SQL Antipatterns · Effective Java |
 | **2027** | Enterprise Integration Patterns · Designing Data-Intensive Applications |
+
+</div>
 
 <br/>
 
@@ -186,8 +239,8 @@ Hands-on experiments: iFlows, OAuth2 flows, and hybrid connectivity patterns.
 
 <!--
 Deutsche Kurzfassung:
-Student der Wirtschaftsinformatik (International Information Systems) an der TH Augsburg,
-Working Student IT Developer bei der Telinage GmbH in Augsburg.
+Omar Ismail — Working Student IT Developer bei der Telinage GmbH in Augsburg.
+Student der International Information Systems (B.Sc.) an der TH Augsburg.
 Schwerpunkt: Backend-Entwicklung, APIs und Systemintegration,
 Weiterbildung Richtung SAP BTP und Integration Suite.
 -->
