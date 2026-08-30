@@ -22,18 +22,46 @@
 
 ## `>` About
 
-```yaml
-name:      Omar Ismail
-role:      Working Student IT Developer @ Telinage GmbH
-study:     B.Sc. International Information Systems · TH Augsburg
-location:  Augsburg, Germany
-focus:     backend services, APIs, and the layer where systems talk to each other
-now:       relearning fundamentals properly — daily algorithms in Java, by hand
-next:      SAP BTP · CAP · Integration Suite · OAuth2 · Cloud Foundry
-languages: Arabic (native) · English (fluent) · German (B2 → C1)
-```
+<table>
+<tr>
+<td width="62%" valign="top">
 
 I build the plumbing between systems. Most software problems I find interesting are integration problems — two systems that need to agree on something, and don't.
+
+|  |  |
+|:--|:--|
+| **Role** | Working Student IT Developer |
+| **Company** | Telinage GmbH, Augsburg |
+| **Study** | B.Sc. International Information Systems · TH Augsburg |
+| **Focus** | Backend services · APIs · Systems integration |
+| **Right now** | Relearning fundamentals properly — daily algorithms in Java, written by hand |
+| **Next** | SAP BTP · CAP · Integration Suite · OAuth2 · Cloud Foundry |
+| **Languages** | Arabic `native` · English `fluent` · German `B2 → C1` |
+
+</td>
+<td width="38%" valign="middle" align="center">
+
+<br/>
+
+<a href="https://telinage.com">
+  <img src="https://www.google.com/s2/favicons?domain=telinage.com&sz=128" width="52" /><br/>
+  <sub><b>Telinage GmbH</b></sub>
+</a>
+
+<br/><br/>
+
+<a href="https://www.tha.de">
+  <img src="https://www.google.com/s2/favicons?domain=tha.de&sz=128" width="52" /><br/>
+  <sub><b>TH Augsburg</b></sub>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Augsburg-12706B?style=flat-square&logo=googlemaps&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -41,10 +69,15 @@ I build the plumbing between systems. Most software problems I find interesting 
 
 <table>
 <tr>
-<td width="120" align="center" valign="middle">
+<td width="140" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/TH-Augsburg-C8102E?style=for-the-badge" /><br/>
-<sub>**2025 – 2029**</sub>
+<a href="https://www.tha.de">
+  <img src="https://www.google.com/s2/favicons?domain=tha.de&sz=128" width="64" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/2025%20–%202029-C8102E?style=flat-square" />
 
 </td>
 <td valign="top">
@@ -74,18 +107,22 @@ An English-taught programme combining computer science with business processes a
 
 **At Telinage GmbH**
 
-`▸` Company web applications & internal tools
-`▸` Server administration and deployments
-`▸` REST APIs and system integrations
+<ul>
+<li>Company web applications &amp; internal tools</li>
+<li>Server administration and deployments</li>
+<li>REST APIs and system integrations</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
 **Learning**
 
-`▸` Enterprise systems & database design
-`▸` SAP CAP and Integration Suite
-`▸` OAuth2 / OIDC, Cloud Foundry
+<ul>
+<li>Enterprise systems &amp; database design</li>
+<li>SAP CAP and Integration Suite</li>
+<li>OAuth2 / OIDC, Cloud Foundry</li>
+</ul>
 
 </td>
 </tr>
