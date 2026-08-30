@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A2E,45:12706B,100:DD5C34&height=210&section=header&text=Omar%20Medhat&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%C2%B7%20APIs%20%C2%B7%20Enterprise%20Integration&descAlignY=54&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=12706B&center=true&vCenter=true&width=620&lines=International+Information+Systems+%40+THA+Augsburg;IT+Werkstudent+in+Augsburg%2C+Germany;Building+toward+SAP+BTP+Integration;Java+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Linux" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=12706B&center=true&vCenter=true&width=620&lines=Working+Student+IT+Developer+%40+Telinage+GmbH;International+Information+Systems+%40+THA+Augsburg;Building+toward+SAP+BTP+Integration;Java+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Linux" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Augsburg,%20Germany-12706B?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to%20Werkstudent%20%26%20Praktikum-DD5C34?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Working%20Student%20IT%20Developer%20%40%20Telinage%20GmbH-DD5C34?style=for-the-badge" />
 
 <br/>
 
@@ -22,7 +22,8 @@
 
 ```yaml
 name:      Omar Ismail
-role:      IT Werkstudent · Student, International Information Systems
+role:      Working Student IT Developer @ Telinage GmbH
+study:     International Information Systems · TH Augsburg
 location:  Augsburg, Germany
 focus:     backend services, APIs, and the layer where systems talk to each other
 now:       relearning fundamentals properly — daily algorithms in Java, by hand
@@ -40,11 +41,11 @@ I build the plumbing between systems. Most software problems I find interesting 
 <tr>
 <td width="50%" valign="top">
 
-**Working on**
+**At Telinage GmbH**
 
-`▸` Internal web applications and tooling
+`▸` Company web applications & internal tools
 `▸` Server administration and deployments
-`▸` REST APIs for internal services
+`▸` REST APIs and system integrations
 
 </td>
 <td width="50%" valign="top">
@@ -170,13 +171,13 @@ Hands-on experiments: iFlows, OAuth2 flows, and hybrid connectivity patterns.
 
 <div align="center">
 
-### Open to Werkstudent and Praktikum roles
+### Working Student IT Developer @ Telinage GmbH
 
-**Backend development · Enterprise integration**
-**Augsburg / München**
+**Backend · APIs · Systems Integration**
+**Augsburg, Germany**
 
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
-  <img src="https://img.shields.io/badge/Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD5C34,55:12706B,100:0F2A2E&height=130&section=footer" width="100%" />
@@ -186,7 +187,7 @@ Hands-on experiments: iFlows, OAuth2 flows, and hybrid connectivity patterns.
 <!--
 Deutsche Kurzfassung:
 Student der Wirtschaftsinformatik (International Information Systems) an der TH Augsburg,
-Werkstudent im IT-Bereich. Schwerpunkt: Backend-Entwicklung und Systemintegration,
+Working Student IT Developer bei der Telinage GmbH in Augsburg.
+Schwerpunkt: Backend-Entwicklung, APIs und Systemintegration,
 Weiterbildung Richtung SAP BTP und Integration Suite.
-Offen für Werkstudenten- und Praktikumsstellen im Raum Augsburg/München.
 -->
