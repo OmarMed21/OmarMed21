@@ -1,36 +1,50 @@
 <div align="center">
 
-# 👋 Omar Ismail
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2A2E,50:12706B,100:DD5C34&height=5&section=header" width="100%" />
 
-### Backend · APIs · Systems Integration · Enterprise Software
+<br/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/Augsburg-Germany-12706B?style=flat-square&logo=googlemaps&logoColor=white" />
+# Omar Ismail
 
-<br/><br/>
+### Backend Development · APIs · Systems Integration
+
+Working Student IT Developer at **Telinage GmbH**  
+B.Sc. International Information Systems at **TH Augsburg**
+
+<br/>
 
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
-<img src="https://img.shields.io/badge/LinkedIn-Omar%20Ismail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://telinage.com">
+  <img src="https://img.shields.io/badge/Telinage-DD5C34?style=for-the-badge" />
+</a>
+
+<img src="https://img.shields.io/badge/Augsburg-Germany-12706B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
+<br/>
+
+## 👋 About Me
+
+I focus on **backend development, APIs and systems integration**.
+
+Currently I'm strengthening my backend engineering foundations while moving deeper into **enterprise integration and SAP BTP**.
+
+- 🎓 B.Sc. International Information Systems — TH Augsburg
+- 💻 Backend, APIs, databases and integration
+- 🐧 Linux and server environments
+- ☁️ SAP BTP, CAP and Integration Suite
+- 🔐 OAuth2 / OIDC
+- 🇪🇬 Arabic — Native
+- 🇬🇧 English — Fluent
+- 🇩🇪 German — B2 → C1
+
 ---
 
-## 🧑‍💻 About
-
-Backend-focused developer working with **APIs, databases, Linux and system integration**.
-
-Currently going deeper into **SAP BTP, CAP, Integration Suite, OAuth2/OIDC and cloud-native enterprise systems**.
-
-Studying **International Information Systems at TH Augsburg**.
-
----
-
-## ⚡ Tech
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -42,53 +56,103 @@ Studying **International Information Systems at TH Augsburg**.
 <img src="https://img.shields.io/badge/OAuth2-OIDC-DD5C34?style=flat-square" />
 <img src="https://img.shields.io/badge/SAP-BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/SAP-CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/Integration-Suite-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud-Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white" />
 
 </div>
 
 ---
 
-## 🧊 Contribution Matrix
+## 🧊 Contributions
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/OmarMed21?template=terminal&base=header%2Cactivity%2Ccommunity&config.timezone=Europe%2FBerlin&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year" width="100%" />
+<img src="./metrics-calendar.svg" width="100%" alt="Contribution Calendar" />
 
 </div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="175" src="https://github-stats-extended.vercel.app/api?username=OmarMed21&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmarMed21&layout=compact&hide_border=true&theme=github_dark" />
+<img src="./metrics-overview.svg" width="100%" alt="GitHub Metrics" />
 
 </div>
 
 ---
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarMed21&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🚀 Building / Exploring
 
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🧠 Languages</h2>
+
+<img src="./metrics-languages.svg" width="100%" alt="Languages" />
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">⚡ Coding Habits</h2>
+
+<img src="./metrics-habits.svg" width="100%" alt="Coding Habits" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🚀 Current Direction
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Backend
+
+- Java
+- Python
+- REST APIs
+- SQL
+- PostgreSQL
+- Backend Architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+### Enterprise Integration
+
+- SAP BTP
+- SAP CAP
+- Integration Suite
+- OAuth2 / OIDC
+- OData
+- Cloud Foundry
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Projects
+
+<table>
+<tr>
+
 <td width="50%" valign="top">
 
 ### Supplier Management API
 
-REST API and backend architecture for enterprise supplier data.
+REST backend for managing supplier master data and exploring enterprise integration architecture.
 
 `Java` `PostgreSQL` `REST`
 
@@ -98,34 +162,63 @@ REST API and backend architecture for enterprise supplier data.
 
 ### Integration Playground
 
-Experiments around APIs, authentication and enterprise integration.
+Experiments around authentication, APIs and enterprise integration.
 
 `SAP BTP` `CAP` `OAuth2` `Integration`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🧠 Currently Exploring
+## 🎓 Education
 
-<div align="center">
+### B.Sc. International Information Systems
 
-`SAP BTP` · `CAP` · `Integration Suite` · `OAuth2` · `OIDC` · `Cloud Foundry` · `OData`
+**Technische Hochschule Augsburg**
 
-</div>
+`2025 → 2029`
+
+Computer science combined with business processes and enterprise information systems.
+
+`Software Engineering` · `Database Systems` · `Enterprise Systems` · `Business Process Modelling` · `Applied AI` · `Data Analytics`
 
 ---
 
-<div align="center">
+<details>
 
-### build → integrate → automate → improve
+<summary><b>🤖 Previous Computer Vision & Machine Learning Stack</b></summary>
 
 <br/>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,cpp,qt" />
+
+</div>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Connect
+
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
-<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br/><br/>
+
+**Backend · APIs · Systems Integration · SAP BTP**
+
+Augsburg, Germany
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DD5C34,50:12706B,100:0F2A2E&height=5&section=footer" width="100%" />
 
 </div>
