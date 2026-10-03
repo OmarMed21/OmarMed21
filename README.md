@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="./assets/metrics-isocalendar.svg" width="100%" alt="Isometric Contribution Calendar" />
+<img src="./assets/metrics-isocalendar.svg" width="100%" alt="Contribution Calendar" />
 
 </div>
 
@@ -156,22 +156,6 @@ Technische Hochschule Augsburg
 🇪🇬 Arabic — Native  
 🇬🇧 English — Fluent  
 🇩🇪 German — B2 → C1
-
----
-
-<details>
-
-<summary><b>Previous Computer Vision & Machine Learning Stack</b></summary>
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,cpp,qt" />
-
-</div>
-
-</details>
 
 ---
 
