@@ -1,87 +1,67 @@
-
 <div align="center">
 
 # Omar Ismail
 
-### Backend Engineering · APIs · Systems Integration · Enterprise Software
+### Backend · APIs · Systems Integration · Enterprise Software
 
-<img src="https://img.shields.io/badge/Augsburg-Germany-12706B?style=flat-square&logo=googlemaps&logoColor=white" />
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
-<img src="https://img.shields.io/badge/LinkedIn-Omar%20Ismail-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://telinage.com">
-<img src="https://img.shields.io/badge/Telinage-DD5C34?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telinage-DD5C34?style=for-the-badge" />
 </a>
+
+<img src="https://img.shields.io/badge/Augsburg-Germany-12706B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
-
-**Building the systems behind the interface.**
-
-</div>
-
----
-
-## ⚙️ Stack
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,postgres,mysql,linux,docker,git,bash,nodejs,ts&perline=10" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REST-API-12706B?style=flat-square" />
-<img src="https://img.shields.io/badge/OAuth2-OIDC-DD5C34?style=flat-square" />
-<img src="https://img.shields.io/badge/SAP-BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/SAP-CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/Integration-Suite-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white" />
+`REST` · `OAuth2` · `OIDC` · `OData` · `SAP BTP` · `SAP CAP` · `Integration Suite` · `Cloud Foundry`
 
 </div>
 
 ---
 
-## 🌃 Contribution City
+## 🌃 GitHub Contribution City
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph" />
 
 </div>
 
 ---
 
-<table>
-<tr>
+## 🧊 Contribution Calendar
 
-<td width="50%" valign="top">
+<div align="center">
 
-<h3 align="center">⚡ Coding Habits</h3>
+<img src="./assets/metrics-isocalendar.svg" width="100%" alt="Isometric Contribution Calendar" />
 
-<img src="./metrics-habits.svg" width="100%" />
+</div>
 
-</td>
+---
 
-<td width="50%" valign="top">
+## ⚡ Code Activity
 
-<h3 align="center">🛰 Recent Activity</h3>
+<div align="center">
 
-<img src="./metrics-activity.svg" width="100%" />
+<img src="./assets/metrics-lines.svg" width="100%" alt="Code Activity" />
 
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🧠 Current Focus
 
-<div align="center">
-
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### Backend
 
@@ -97,7 +77,7 @@
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### Integration
 
@@ -109,11 +89,11 @@
 
 `API Design`
 
-`System Integration`
+`Systems Integration`
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### Enterprise
 
@@ -132,11 +112,9 @@
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🚀 Projects
+## 🚀 Building
 
 <table>
 <tr>
@@ -155,7 +133,7 @@ Backend service for supplier master data and enterprise integration scenarios.
 
 ### Integration Playground
 
-Hands-on experiments with APIs, authentication and enterprise integration.
+Hands-on work around authentication, APIs and enterprise integration.
 
 `SAP BTP` `CAP` `OAuth2`
 
@@ -166,7 +144,7 @@ Hands-on experiments with APIs, authentication and enterprise integration.
 
 ---
 
-## 🎓 Currently
+## 🎓 Current Chapter
 
 **B.Sc. International Information Systems**  
 Technische Hochschule Augsburg
@@ -183,7 +161,7 @@ Technische Hochschule Augsburg
 
 <details>
 
-<summary><b>🧪 Previous Computer Vision & ML Stack</b></summary>
+<summary><b>Previous Computer Vision & Machine Learning Stack</b></summary>
 
 <br/>
 
@@ -199,16 +177,12 @@ Technische Hochschule Augsburg
 
 <div align="center">
 
-## 🤝 Connect
+### build systems · connect systems · improve systems
+
+<br/>
 
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
-<img src="https://img.shields.io/badge/LinkedIn-Omar%20Ismail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
-
-`backend` · `APIs` · `integration` · `enterprise`
-
 </div>
-
-
