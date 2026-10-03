@@ -1,266 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A2E,45:12706B,100:DD5C34&height=210&section=header&text=Omar%20Ismail&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20APIs%20%7C%20Enterprise%20Integration&descAlignY=55&descSize=18" width="100%" />
+<img src="https://github.com/OmarMed21.png" width="115" style="border-radius:50%" />
 
-### Backend Development · APIs · Systems Integration · Enterprise Platforms
+# Omar Ismail
 
-Working Student IT Developer at **Telinage GmbH**  
-B.Sc. International Information Systems at **TH Augsburg**
+### backend systems · APIs · integration · enterprise software
 
-<br/>
+<sub>
+Building the layer between applications, data and business systems.
+</sub>
+
+<br/><br/>
 
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://telinage.com">
-  <img src="https://img.shields.io/badge/Telinage%20GmbH-DD5C34?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Telinage-GmbH-DD5C34?style=flat-square" />
 </a>
-<img src="https://img.shields.io/badge/Augsburg,%20Germany-12706B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Augsburg-Germany-12706B?style=flat-square&logo=googlemaps&logoColor=white" />
 
 </div>
 
 ---
 
-## About Me
+```yaml
+profile:
+  name: Omar Ismail
+  location: Augsburg, Germany
 
-I'm a backend-focused developer based in Augsburg, Germany, currently working as a **Working Student IT Developer at Telinage GmbH** while studying **International Information Systems at TH Augsburg**.
+  focus:
+    - Backend Engineering
+    - API Design
+    - Systems Integration
+    - Enterprise Software
 
-My main interests are the systems behind modern applications: **backend services, APIs, databases, authentication, system integration and enterprise platforms**.
+  currently_exploring:
+    - SAP BTP
+    - SAP CAP
+    - Integration Suite
+    - OAuth2 / OIDC
+    - Cloud Foundry
 
-I am currently strengthening my backend engineering foundation while progressively specialising in **SAP Business Technology Platform, CAP and enterprise integration**.
+  studying:
+    degree: B.Sc. International Information Systems
+    university: TH Augsburg
+
+  languages:
+    Arabic: Native
+    English: Fluent
+    German: B2 → C1
+```
+
+## /now
 
 ```text
-Current focus     Backend Engineering & APIs
-Specialisation    Systems Integration & Enterprise Platforms
-Long-term path    SAP BTP & Enterprise Application Development
-Location          Augsburg, Germany
+→ building backend services and internal systems
+→ designing APIs and integration flows
+→ improving Java fundamentals through algorithm practice
+→ going deeper into enterprise integration
+→ learning the SAP BTP ecosystem
 ```
 
 ---
 
-## What I Work On
+## /stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### Backend Engineering
+### core
 
-- Server-side application development
-- REST API design and implementation
-- Database-backed applications
-- Authentication and authorization
-- Application architecture
-- Business logic and data processing
+`Java`  
+`Python`  
+`SQL`  
+`PostgreSQL`  
+`MySQL`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="33%">
 
-### Systems Integration
+### systems
 
-- Connecting applications and services
-- REST and OData APIs
-- OAuth2 and OpenID Connect
-- Enterprise integration concepts
-- Integration workflows
-- Hybrid and cloud connectivity
+`Linux`  
+`Docker`  
+`Git`  
+`Bash`  
+`REST`
+
+</td>
+<td valign="top" width="33%">
+
+### integration
+
+`OAuth2`  
+`OIDC`  
+`OData`  
+`Postman`  
+`Cloud APIs`
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-## Professional Experience
+<img src="https://skillicons.dev/icons?i=java,python,postgres,mysql,linux,docker,git,bash&perline=8" />
 
-### Working Student IT Developer · Telinage GmbH
-
-**Augsburg, Germany**
-
-At Telinage, I work on the technical infrastructure and applications behind the company's software platform.
-
-My work includes:
-
-- Development of company web applications and internal tools
-- Backend and server-side development
-- REST APIs and system integrations
-- Server administration and application deployments
-- Database-backed services
-- Connecting internal and external systems
-
-My goal is to build software that does not only work in isolation, but integrates reliably into larger business environments.
+</div>
 
 ---
 
-## Selected Projects
+## /building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Supplier Management API
+### 01 — Supplier Management API
 
-Backend service for managing supplier master data and providing a clean API layer for enterprise integration scenarios.
+REST backend for managing supplier master data and experimenting with enterprise integration architecture.
 
-The project serves as a technical foundation for combining traditional backend development with SAP-oriented integration concepts.
-
-**Focus**
-
-`Java` `REST API` `PostgreSQL` `Backend Architecture`
-
-<br/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/REST-005571?style=flat-square" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-</td>
-
-<td width="50%" valign="top">
-
-### Integration Playground
-
-A practical environment for exploring enterprise integration patterns, authentication and cloud integration scenarios.
-
-The project focuses on understanding how independently developed systems communicate securely and reliably.
-
-**Focus**
-
-`SAP BTP` `CAP` `OAuth2` `Integration` `Cloud`
-
-<br/>
-
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
----
-
-## Technology Stack
-
-### Core
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,linux,git,docker,bash&theme=dark" />
-
-<br/><br/>
-
-`Java` · `Python` · `SQL` · `PostgreSQL` · `MySQL` · `Linux` · `Git` · `Docker` · `Bash`
-
-</div>
-
-### Enterprise & Integration
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/OIDC-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OData-0F6CBD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-</div>
-
-### Currently Expanding Into
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/SAP%20CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/Integration%20Suite-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,githubactions,cloudflare&theme=dark" />
-
-</div>
-
-<details>
-<summary><b>Previous experience in Computer Vision & Machine Learning</b></summary>
-
-<br/>
-
-Before shifting my main focus toward backend and enterprise systems, I worked with computer vision and machine learning technologies.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,cpp,qt&theme=dark" />
-
-</div>
-
-</details>
-
----
-
-## Current Focus
-
-```java
-public class CurrentFocus {
-
-    String[] engineering = {
-        "Backend Architecture",
-        "REST APIs",
-        "Database Design",
-        "Algorithms & Data Structures"
-    };
-
-    String[] integration = {
-        "SAP BTP",
-        "SAP CAP",
-        "Integration Suite",
-        "OAuth2 / OIDC",
-        "Cloud Foundry"
-    };
-
-    String goal = "Build reliable systems that connect business applications.";
-}
+```text
+Java
+PostgreSQL
+REST
+Backend Architecture
 ```
 
-I also practice algorithms regularly in **Java** to strengthen my computer science and problem-solving fundamentals.
+**Current direction**
 
----
-
-## Education
-
-<table>
-<tr>
-<td width="120" align="center" valign="middle">
-
-<a href="https://www.tha.de">
-  <img src="https://www.google.com/s2/favicons?domain=tha.de&sz=128" width="64" />
-</a>
-
-<br/><br/>
-
-**2025–2029**
+API layer → enterprise integration → SAP CAP / BTP
 
 </td>
+<td width="50%" valign="top">
 
-<td valign="top">
+### 02 — Integration Playground
 
-### B.Sc. International Information Systems
+Experimental environment for building and understanding real integration scenarios.
 
-**Technische Hochschule Augsburg**  
-Faculty of Computer Science
+```text
+OAuth2 / OIDC
+SAP BTP
+CAP
+Integration Suite
+Cloud Connectivity
+```
 
-English-taught degree combining computer science, business processes and enterprise information systems.
+**Current direction**
 
-Relevant areas include:
-
-`Programming & Software Engineering`  
-`Database Systems`  
-`Enterprise Systems`  
-`Business Process Modelling`  
-`Applied Artificial Intelligence`  
-`Data Analytics`
-
-The programme also includes a **20-week industry placement** and bachelor thesis.
+auth → APIs → integration flows → cloud systems
 
 </td>
 </tr>
@@ -268,104 +158,137 @@ The programme also includes a **20-week industry placement** and bachelor thesis
 
 ---
 
-## Development Roadmap
+## /tech-radar
 
-| Area | Current Direction |
-|:--|:--|
-| **Backend** | Advanced Java, API architecture and database design |
-| **Integration** | OAuth2, OIDC, REST, OData and integration patterns |
-| **SAP** | SAP BTP, CAP and Integration Suite |
-| **Cloud** | Cloud Foundry and cloud-native application concepts |
-| **German** | B2 → C1 |
-| **Computer Science** | Algorithms and data structures |
+```text
+            USE                     EXPLORE
+             │                         │
+      Java  ●│                  ● SAP BTP
+    Python  ●│                  ● SAP CAP
+PostgreSQL  ●│        ● Integration Suite
+     Linux  ●│             ● Cloud Foundry
+    Docker  ●│                    ● OData
+      REST  ●│
+             │
+─────────────┼──────────────────────────────
+             │
+          EXPERIENCE
+             │
+       PyTorch ●
+    TensorFlow ●
+        OpenCV ●
+           C++ ●
+            Qt ●
+```
+
+---
+
+## /direction
+
+I’m especially interested in software that sits **between systems**.
+
+Not only building an application, but understanding:
+
+```text
+client
+   ↓
+API
+   ↓
+business logic
+   ↓
+database
+   ↓
+integration layer
+   ↓
+external / enterprise systems
+```
+
+That is where backend engineering, APIs and enterprise integration meet — and where I want to keep going deeper.
+
+---
+
+## /education
+
+**B.Sc. International Information Systems**  
+Technische Hochschule Augsburg · Faculty of Computer Science  
+`2025 → 2029`
+
+A combination of computer science, enterprise systems and business processes.
+
+```text
+Programming & Software Engineering
+Database Systems
+Enterprise Systems
+Business Process Modelling
+Applied AI
+Data Analytics
+```
+
+---
+
+## /previously
+
+Before moving my main focus toward backend and enterprise systems, I worked with **computer vision and machine learning**.
 
 <details>
-<summary><b>Certification plans</b></summary>
+<summary>show previous stack</summary>
 
 <br/>
 
-| Year | Certification | Status |
-|:--|:--|:--|
-| **2026** | telc Deutsch B2 | In progress |
-| **2027** | SAP Integration Developer | Planned |
-| **2027** | SAP BTP Administration | Planned |
-| **2027** | SAP CAP | Planned |
-| **2028** | telc Deutsch C1 | Planned |
-| **2028** | SAP Business Process Integration | Planned |
-| **2029** | SAP S/4HANA Sourcing and Procurement | Planned |
-| **2029** | ABAP Cloud / RAP | Planned |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,cpp,qt" />
+
+</div>
 
 </details>
 
 ---
 
-## Languages
+## /reading
 
-| Language | Level |
-|:--|:--|
-| 🇪🇬 **Arabic** | Native |
-| 🇬🇧 **English** | Fluent |
-| 🇩🇪 **German** | B2 · working toward C1 |
+```text
+NOW
+├── The Linux Command Line
+└── SAP S/4HANA: An Introduction
+
+NEXT
+├── Effective Java
+└── SQL Antipatterns
+
+QUEUE
+├── Enterprise Integration Patterns
+└── Designing Data-Intensive Applications
+```
 
 ---
 
-## GitHub Activity
+## /github
+
+Instead of chasing contribution streaks, I use GitHub to document what I'm building, learning and improving.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarMed21&theme=github_dark" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarMed21&theme=github_dark" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarMed21&theme=github_dark" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarMed21&theme=transparent" width="100%" />
 
 </div>
 
 ---
 
-<details>
-<summary><b>What I'm Reading</b></summary>
-
-<br/>
-
-**Current**
-
-- The Linux Command Line
-- SAP S/4HANA: An Introduction
-
-**Next**
-
-- SQL Antipatterns
-- Effective Java
-
-**Later**
-
-- Enterprise Integration Patterns
-- Designing Data-Intensive Applications
-
-</details>
-
----
+## /connect
 
 <div align="center">
 
-## Let's Connect
-
-I'm interested in backend engineering, APIs, enterprise integration and the technologies behind connected business systems.
+### interested in backend, integration or enterprise systems?
 
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
-  <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Omar%20Ismail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Backend Development · APIs · Enterprise Integration · SAP BTP**
+`Java` · `Backend` · `APIs` · `Integration` · `SAP BTP`
 
-Augsburg, Germany
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD5C34,55:12706B,100:0F2A2E&height=120&section=footer" width="100%" />
+<sub>Augsburg, Germany</sub>
 
 </div>
