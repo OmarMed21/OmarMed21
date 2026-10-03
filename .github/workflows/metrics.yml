@@ -4,16 +4,20 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "20 2 * * *"
+    - cron: "15 2 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  profile:
     runs-on: ubuntu-latest
 
     steps:
+
+      # ============================================================
+      # CHECKOUT
+      # ============================================================
 
       - name: Checkout repository
         uses: actions/checkout@v5
@@ -22,28 +26,55 @@ jobs:
 
 
       # ============================================================
-      # 1. 3D CONTRIBUTION GRAPH
+      # GITHUB OVERVIEW
+      #
+      # Uses your PAT so private/collaborator/org repositories
+      # accessible by that PAT are included in the calculations.
       # ============================================================
 
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          USERNAME: OmarMed21
-          MAX_REPOS: 300
-
-
-      # ============================================================
-      # 2. ISOMETRIC CONTRIBUTION CALENDAR
-      # ============================================================
-
-      - name: Generate isometric calendar
+      - name: Generate GitHub overview
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: OmarMed21
 
-          filename: metrics-isocalendar.svg
+          filename: github-overview.svg
+          output_action: none
+
+          template: classic
+
+          base: header, activity, community, repositories
+          base_indepth: yes
+
+          repositories: 200
+          repositories_batch: 25
+          repositories_affiliations: owner, collaborator, organization_member
+
+          config_timezone: Europe/Berlin
+
+
+      - name: Save GitHub overview
+        run: |
+          mkdir -p assets
+          sudo cp /metrics_renders/github-overview.svg assets/github-overview.svg
+          sudo chown "$USER":"$USER" assets/github-overview.svg
+
+          test -s assets/github-overview.svg
+
+          echo "GitHub overview generated."
+
+
+      # ============================================================
+      # ISOMETRIC CONTRIBUTION CALENDAR
+      # ============================================================
+
+      - name: Generate contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: OmarMed21
+
+          filename: github-calendar.svg
           output_action: none
 
           base: ""
@@ -51,95 +82,71 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          repositories: 300
-          repositories_batch: 50
+          repositories: 200
+          repositories_batch: 25
           repositories_affiliations: owner, collaborator, organization_member
 
           config_timezone: Europe/Berlin
 
 
-      # ============================================================
-      # 3. CODE ACTIVITY
-      #
-      # IMPORTANT:
-      # This is the corrected configuration.
-      # ============================================================
-
-      - name: Generate code activity
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: OmarMed21
-
-          filename: metrics-lines.svg
-          output_action: none
-
-          base: ""
-
-          plugin_lines: yes
-          plugin_lines_delay: 30
-
-          plugin_lines_sections: repositories, history
-          plugin_lines_repositories_limit: 6
-          plugin_lines_history_limit: 2
-
-          repositories: 300
-          repositories_batch: 50
-          repositories_affiliations: owner, collaborator, organization_member
-
-          config_timezone: Europe/Berlin
-
-
-      # ============================================================
-      # COPY GENERATED FILES
-      # ============================================================
-
-      - name: Copy generated metrics
+      - name: Save contribution calendar
         run: |
           mkdir -p assets
+          sudo cp /metrics_renders/github-calendar.svg assets/github-calendar.svg
+          sudo chown "$USER":"$USER" assets/github-calendar.svg
 
-          sudo cp /metrics_renders/metrics-isocalendar.svg assets/metrics-isocalendar.svg
-          sudo cp /metrics_renders/metrics-lines.svg assets/metrics-lines.svg
+          test -s assets/github-calendar.svg
 
-          sudo chown -R "$USER":"$USER" assets
+          echo "Contribution calendar generated."
 
 
       # ============================================================
-      # VERIFY
+      # 3D CONTRIBUTION GRAPH
       # ============================================================
 
-      - name: Verify generated files
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          USERNAME: OmarMed21
+          MAX_REPOS: 200
+
+
+      # ============================================================
+      # VERIFY EVERYTHING BEFORE PUSHING
+      # ============================================================
+
+      - name: Verify gadgets
         run: |
           echo "Checking generated files..."
 
-          test -f profile-3d-contrib/profile-night-rainbow.svg
+          test -s assets/github-overview.svg
+          test -s assets/github-calendar.svg
           test -s profile-3d-contrib/profile-night-rainbow.svg
 
-          test -f assets/metrics-isocalendar.svg
-          test -s assets/metrics-isocalendar.svg
-
-          test -f assets/metrics-lines.svg
-          test -s assets/metrics-lines.svg
-
-          echo "All profile gadgets generated successfully."
+          echo ""
+          echo "All profile gadgets generated correctly:"
+          echo "✓ assets/github-overview.svg"
+          echo "✓ assets/github-calendar.svg"
+          echo "✓ profile-3d-contrib/profile-night-rainbow.svg"
 
 
       # ============================================================
-      # SINGLE COMMIT
+      # COMMIT EVERYTHING ONCE
       # ============================================================
 
-      - name: Commit and push generated gadgets
+      - name: Commit generated profile assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile-3d-contrib/
           git add assets/
+          git add profile-3d-contrib/
 
           if git diff --cached --quiet; then
-            echo "No profile changes to commit."
+            echo "No profile changes."
             exit 0
           fi
 
-          git commit -m "chore: update profile gadgets [skip ci]"
+          git commit -m "chore: update GitHub profile data [skip ci]"
           git push
