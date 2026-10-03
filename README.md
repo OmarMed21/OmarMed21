@@ -1,17 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2A2E,50:12706B,100:DD5C34&height=5&section=header" width="100%" />
-
-<br/>
-
-# Omar Ismail
-
-### Backend Development · APIs · Systems Integration
-
-Working Student IT Developer at **Telinage GmbH**  
-B.Sc. International Information Systems at **TH Augsburg**
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,45:102A2E,100:12706B&height=165&section=header&text=Omar%20Ismail&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Backend%20%E2%80%A2%20APIs%20%E2%80%A2%20Systems%20Integration&descAlignY=64&descSize=16" width="100%" />
 
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,32 +12,19 @@ B.Sc. International Information Systems at **TH Augsburg**
 
 <img src="https://img.shields.io/badge/Augsburg-Germany-12706B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
+<br/><br/>
+
+### Building backend systems that connect applications, data and business processes.
+
 </div>
-
-<br/>
-
-## 👋 About Me
-
-I focus on **backend development, APIs and systems integration**.
-
-Currently I'm strengthening my backend engineering foundations while moving deeper into **enterprise integration and SAP BTP**.
-
-- 🎓 B.Sc. International Information Systems — TH Augsburg
-- 💻 Backend, APIs, databases and integration
-- 🐧 Linux and server environments
-- ☁️ SAP BTP, CAP and Integration Suite
-- 🔐 OAuth2 / OIDC
-- 🇪🇬 Arabic — Native
-- 🇬🇧 English — Fluent
-- 🇩🇪 German — B2 → C1
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Toolbox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,linux,docker,git,bash,nodejs,ts&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,python,postgres,mysql,linux,docker,git,bash,nodejs,ts&perline=10" />
 
 <br/><br/>
 
@@ -73,77 +49,79 @@ Currently I'm strengthening my backend engineering foundations while moving deep
 
 ---
 
-## 📊 GitHub Overview
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 Languages</h3>
+
+<img src="./metrics-languages.svg" width="100%" />
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Coding Habits</h3>
+
+<img src="./metrics-habits.svg" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛰️ What I'm Into Right Now
 
 <div align="center">
 
-<img src="./metrics-overview.svg" width="100%" alt="GitHub Metrics" />
+<table>
+<tr>
+<td align="center">
+
+### Backend
+
+`Java`  
+`Python`  
+`SQL`  
+`REST APIs`  
+`Databases`
+
+</td>
+
+<td align="center">
+
+### Integration
+
+`OAuth2`  
+`OIDC`  
+`OData`  
+`Integration Patterns`  
+`APIs`
+
+</td>
+
+<td align="center">
+
+### Enterprise
+
+`SAP BTP`  
+`SAP CAP`  
+`Integration Suite`  
+`Cloud Foundry`  
+`Enterprise Systems`
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h2 align="center">🧠 Languages</h2>
-
-<img src="./metrics-languages.svg" width="100%" alt="Languages" />
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2 align="center">⚡ Coding Habits</h2>
-
-<img src="./metrics-habits.svg" width="100%" alt="Coding Habits" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🚀 Current Direction
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Backend
-
-- Java
-- Python
-- REST APIs
-- SQL
-- PostgreSQL
-- Backend Architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-### Enterprise Integration
-
-- SAP BTP
-- SAP CAP
-- Integration Suite
-- OAuth2 / OIDC
-- OData
-- Cloud Foundry
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🛠️ Projects
+## 🧩 Current Projects
 
 <table>
 <tr>
@@ -152,7 +130,7 @@ Currently I'm strengthening my backend engineering foundations while moving deep
 
 ### Supplier Management API
 
-REST backend for managing supplier master data and exploring enterprise integration architecture.
+Backend API for supplier master data and enterprise integration scenarios.
 
 `Java` `PostgreSQL` `REST`
 
@@ -162,9 +140,9 @@ REST backend for managing supplier master data and exploring enterprise integrat
 
 ### Integration Playground
 
-Experiments around authentication, APIs and enterprise integration.
+Hands-on experiments with authentication, APIs and enterprise integration.
 
-`SAP BTP` `CAP` `OAuth2` `Integration`
+`SAP BTP` `CAP` `OAuth2`
 
 </td>
 
@@ -173,23 +151,27 @@ Experiments around authentication, APIs and enterprise integration.
 
 ---
 
-## 🎓 Education
+## 🎓 Currently
 
-### B.Sc. International Information Systems
+**B.Sc. International Information Systems**  
+Technische Hochschule Augsburg
 
-**Technische Hochschule Augsburg**
+`Programming` · `Databases` · `Enterprise Systems` · `Business Processes` · `Applied AI`
 
-`2025 → 2029`
+<br/>
 
-Computer science combined with business processes and enterprise information systems.
+**Languages**
 
-`Software Engineering` · `Database Systems` · `Enterprise Systems` · `Business Process Modelling` · `Applied AI` · `Data Analytics`
+🇪🇬 Arabic — Native  
+🇬🇧 English — Fluent  
+🇩🇪 German — B2 → C1
 
 ---
 
-<details>
+## 🧪 Previous Tech
 
-<summary><b>🤖 Previous Computer Vision & Machine Learning Stack</b></summary>
+<details>
+<summary><b>Computer Vision & Machine Learning</b></summary>
 
 <br/>
 
@@ -201,24 +183,22 @@ Computer science combined with business processes and enterprise information sys
 
 </details>
 
-<br/>
+---
 
 <div align="center">
 
-## 🤝 Connect
+## 🤝 Let's Connect
+
+Backend · APIs · Enterprise Integration · SAP BTP
+
+<br/>
 
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Omar%20Ismail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Backend · APIs · Systems Integration · SAP BTP**
-
-Augsburg, Germany
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DD5C34,50:12706B,100:0F2A2E&height=5&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:12706B,55:102A2E,100:0D1117&height=70&section=footer" width="100%" />
 
 </div>
