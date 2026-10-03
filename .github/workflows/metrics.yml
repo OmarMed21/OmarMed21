@@ -15,10 +15,6 @@ jobs:
 
     steps:
 
-      # ============================================================
-      # CHECKOUT
-      # ============================================================
-
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
@@ -39,10 +35,6 @@ jobs:
 
       # ============================================================
       # 2. ISOMETRIC CONTRIBUTION CALENDAR
-      #
-      # output_action: none
-      # means Lowlighter DOES NOT commit anything itself.
-      # We commit everything once at the very end.
       # ============================================================
 
       - name: Generate isometric calendar
@@ -67,7 +59,10 @@ jobs:
 
 
       # ============================================================
-      # 3. CODE ACTIVITY / LINES CHANGED
+      # 3. CODE ACTIVITY
+      #
+      # IMPORTANT:
+      # This is the corrected configuration.
       # ============================================================
 
       - name: Generate code activity
@@ -84,6 +79,10 @@ jobs:
           plugin_lines: yes
           plugin_lines_delay: 30
 
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 6
+          plugin_lines_history_limit: 2
+
           repositories: 300
           repositories_batch: 50
           repositories_affiliations: owner, collaborator, organization_member
@@ -92,7 +91,7 @@ jobs:
 
 
       # ============================================================
-      # COPY LOWLIGHTER OUTPUTS INTO REPOSITORY
+      # COPY GENERATED FILES
       # ============================================================
 
       - name: Copy generated metrics
@@ -106,7 +105,7 @@ jobs:
 
 
       # ============================================================
-      # CHECK GENERATED FILES
+      # VERIFY
       # ============================================================
 
       - name: Verify generated files
@@ -114,18 +113,19 @@ jobs:
           echo "Checking generated files..."
 
           test -f profile-3d-contrib/profile-night-rainbow.svg
-          test -f assets/metrics-isocalendar.svg
-          test -f assets/metrics-lines.svg
+          test -s profile-3d-contrib/profile-night-rainbow.svg
 
-          echo ""
-          echo "SUCCESS:"
-          echo "profile-3d-contrib/profile-night-rainbow.svg"
-          echo "assets/metrics-isocalendar.svg"
-          echo "assets/metrics-lines.svg"
+          test -f assets/metrics-isocalendar.svg
+          test -s assets/metrics-isocalendar.svg
+
+          test -f assets/metrics-lines.svg
+          test -s assets/metrics-lines.svg
+
+          echo "All profile gadgets generated successfully."
 
 
       # ============================================================
-      # ONE SINGLE COMMIT
+      # SINGLE COMMIT
       # ============================================================
 
       - name: Commit and push generated gadgets
