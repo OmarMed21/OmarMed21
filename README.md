@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A2E,45:12706B,100:DD5C34&height=210&section=header&text=Omar%20Ismail&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20Development%20and%20Systems%20Integration&descAlignY=54&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=12706B&center=true&vCenter=true&width=760&lines=Backend+Development+%26+Systems+Integration;International+Information+Systems+at+TH+Augsburg;Java+%7C+Python+%7C+SQL+%7C+Linux;APIs+%7C+Databases+%7C+Enterprise+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=12706B&center=true&vCenter=true&width=640&lines=Working+Student+IT+Developer+at+Telinage+GmbH;International+Information+Systems+at+TH+Augsburg;Backend%2C+APIs+and+Systems+Integration;Java+%7C+Python+%7C+SQL+%7C+Linux" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -10,11 +10,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://telinage.com">
-  <img src="https://img.shields.io/badge/Telinage%20GmbH-DD5C34?style=for-the-badge" />
-</a>
-
 <img src="https://img.shields.io/badge/Augsburg,%20Germany-12706B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Telinage%20GmbH-DD5C34?style=for-the-badge" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=OmarMed21&style=flat-square&color=12706B&label=Profile+views" />
 
 </div>
 
@@ -24,196 +26,42 @@
 
 <table>
 <tr>
-<td width="64%" valign="top">
 
-I work mainly on **backend systems and the interfaces between them**.
+<td width="62%" valign="top">
 
-My current focus is server-side development, APIs, databases and systems integration, with a growing specialisation in **enterprise platforms and SAP Business Technology Platform**.
+I work on backend systems and the interfaces between them. My current focus is server-side development, APIs, and enterprise integration, with a longer-term specialisation in SAP Business Technology Platform.
 
-| | |
+|  |  |
 |:--|:--|
-| **Current role** | Working Student IT Developer |
+| **Role** | Working Student IT Developer |
 | **Company** | Telinage GmbH, Augsburg |
-| **Study** | B.Sc. International Information Systems |
-| **University** | Technische Hochschule Augsburg |
-| **Focus** | Backend, APIs, databases, systems integration |
-| **Currently** | Java fundamentals, algorithms and backend architecture |
+| **Study** | B.Sc. International Information Systems, TH Augsburg |
+| **Focus** | Backend services, APIs, systems integration |
+| **Currently** | Daily algorithm practice in Java to strengthen fundamentals |
 | **Next** | SAP BTP, CAP, Integration Suite, OAuth2, Cloud Foundry |
-| **Languages** | Arabic · English · German |
+| **Languages** | Arabic (native), English (fluent), German (B2, working toward C1) |
 
 </td>
 
-<td width="36%" valign="middle" align="center">
-
-### Current Direction
+<td width="38%" valign="middle" align="center">
 
 <br/>
 
-<img src="https://img.shields.io/badge/Backend-12706B?style=for-the-badge" />
+<a href="https://telinage.com">
+  <img src="https://www.google.com/s2/favicons?domain=telinage.com&sz=128" width="52" /><br/>
+  <sub><b>Telinage GmbH</b></sub>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge" />
+<a href="https://www.tha.de">
+  <img src="https://www.google.com/s2/favicons?domain=tha.de&sz=128" width="52" /><br/>
+  <sub><b>TH Augsburg</b></sub>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Integration-DD5C34?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Technologies
-
-<div align="center">
-
-### Core
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,linux,git,docker,bash&theme=dark" />
-
-<br/><br/>
-
-### Expanding Into
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,githubactions,cloudflare&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/REST-005571?style=flat-square" />
-<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/OIDC-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/OData-0F6CBD?style=flat-square" />
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/SAP%20CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/Integration%20Suite-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>Previous experience in Computer Vision & Machine Learning</b></summary>
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,cpp,qt&theme=dark" />
-
-</div>
-
-</details>
-
-<br/>
-
-## Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Supplier Management API
-
-REST service for supplier master data, designed as a foundation for enterprise integration scenarios.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/REST-005571?style=flat-square" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-<br/><br/>
-
-**Direction**
-
-`API Design` → `Backend Architecture` → `Enterprise Integration`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Integration Playground
-
-Practical implementations around authentication, APIs, integration flows and cloud connectivity.
-
-<br/>
-
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" />
-
-<br/><br/>
-
-**Direction**
-
-`Authentication` → `APIs` → `Integration` → `Cloud`
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-## Current Focus
-
-<table>
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### Backend
-
-`Java`
-
-`Python`
-
-`SQL`
-
-`PostgreSQL`
-
-`REST APIs`
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### Integration
-
-`OAuth2`
-
-`OIDC`
-
-`OData`
-
-`API Design`
-
-`System Integration`
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### Enterprise
-
-`SAP BTP`
-
-`SAP CAP`
-
-`Integration Suite`
-
-`Cloud Foundry`
-
-`Enterprise Systems`
+<img src="https://img.shields.io/badge/Augsburg-12706B?style=flat-square&logo=googlemaps&logoColor=white" />
 
 </td>
 
@@ -227,11 +75,15 @@ Practical implementations around authentication, APIs, integration flows and clo
 <table>
 <tr>
 
-<td width="150" align="center" valign="middle">
+<td width="140" align="center" valign="middle">
 
-### TH Augsburg
+<a href="https://www.tha.de">
+  <img src="https://www.google.com/s2/favicons?domain=tha.de&sz=128" width="64" />
+</a>
 
-<img src="https://img.shields.io/badge/2025%20%E2%86%92%202029-C8102E?style=for-the-badge" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/2025%20to%202029-C8102E?style=flat-square" />
 
 </td>
 
@@ -239,20 +91,15 @@ Practical implementations around authentication, APIs, integration flows and clo
 
 ### B.Sc. International Information Systems
 
-**Technische Hochschule Augsburg**  
-Faculty of Computer Science
+**Technische Hochschule Augsburg**, Faculty of Computer Science
 
-English-taught degree combining computer science, business processes and enterprise information systems.
+An English-taught degree that combines computer science with business processes and enterprise systems. The programme includes a 20-week industry placement and a bachelor thesis.
 
-**Core areas**
+**Core modules**
 
-`Programming & Software Engineering`  
-`Database Systems`  
-`Implementation of Enterprise Systems`  
-`Programming of Enterprise Systems`  
-`Business Process Modelling`  
-`Applied AI`  
-`Data Analytics`
+`Programming and Software Engineering` `Database Systems` `Implementation of Enterprise Systems`
+
+`Programming of Enterprise Systems` `Business Process Modelling` `Applied AI` `Data Analytics`
 
 </td>
 
@@ -261,38 +108,155 @@ English-taught degree combining computer science, business processes and enterpr
 
 <br/>
 
-## GitHub Activity
+## Current Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+**At Telinage GmbH**
+
+<ul>
+<li>Company web applications and internal tools</li>
+<li>Server administration and deployments</li>
+<li>REST APIs and system integrations</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+**Learning**
+
+<ul>
+<li>Enterprise systems and database design</li>
+<li>SAP CAP and Integration Suite</li>
+<li>OAuth2 and OIDC, Cloud Foundry</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+## Technologies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarMed21&bg_color=0D1117&color=8B949E&line=12706B&point=DD5C34&area=true&area_color=12706B&hide_border=true&radius=8&custom_title=Recent%20GitHub%20Activity" width="100%" alt="GitHub Activity Graph" />
+**Working with**
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=OmarMed21&hide_border=true&background=0D1117&stroke=21262D&ring=DD5C34&fire=DD5C34&currStreakLabel=12706B&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" height="190" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,linux,git,docker,bash&theme=dark" />
+
+<br/><br/>
+
+**Learning**
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,githubactions,cloudflare&theme=dark" />
+
+<br/><br/>
+
+<sub>SAP BTP, SAP CAP, Integration Suite, REST and OData, Postman</sub>
+
+<br/><br/>
+
+**Previous experience in computer vision and machine learning**
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,cpp,qt&theme=dark" />
+
+</div>
+
+<br/>
+
+## Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Supplier Management API
+
+A REST service for supplier master data, built as the base layer for a CAP and Integration Suite scenario.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-005571?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### Integration Playground
+
+Working implementations of integration flows, OAuth2 authentication, and hybrid connectivity patterns.
+
+<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" />
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+## Certification Roadmap
+
+<div align="center">
+
+| Year | Certification | Status |
+|:--|:--|:--|
+| **2026** | telc Deutsch B2 | `in progress` |
+| **2027** | SAP Integration Developer, SAP BTP Administration, SAP CAP | `planned` |
+| **2028** | telc Deutsch C1, SAP Business Process Integration | `planned` |
+| **2029** | SAP S/4HANA Sourcing and Procurement, ABAP Cloud (RAP) | `planned` |
+
+</div>
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/12706B/OmarMed21" width="100%" alt="Contribution chart" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=OmarMed21&hide_border=true&background=0D1117&stroke=21262D&ring=DD5C34&fire=DD5C34&currStreakLabel=12706B&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" height="190" alt="GitHub contribution streak" />
 
 <br/><br/>
 
 <sub>
-Live GitHub activity from public profile data. Private repository names and contents remain private.
+Contribution activity can include anonymized private repository work when Private Contributions is enabled on GitHub.
 </sub>
 
 </div>
 
 <br/>
 
-## Roadmap
+## GitHub
 
 <div align="center">
 
-| Area | Direction |
-|:--|:--|
-| **Backend** | Advanced Java · API architecture · database design |
-| **Integration** | OAuth2 · OIDC · REST · OData · integration patterns |
-| **SAP** | SAP BTP · CAP · Integration Suite |
-| **Cloud** | Cloud Foundry · cloud-native concepts |
-| **Computer Science** | Algorithms · data structures |
-| **German** | B2 → C1 |
+<img src="https://img.shields.io/badge/Public%20%2B%20Private%20Contributions-enabled-12706B?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python-DD5C34?style=flat-square" />
+<img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL-12706B?style=flat-square" />
+<img src="https://img.shields.io/badge/Systems-Linux%20%7C%20Docker-0F2A2E?style=flat-square" />
+<img src="https://img.shields.io/badge/Integration-REST%20%7C%20OAuth2%20%7C%20OData-005571?style=flat-square" />
 
 </div>
 
@@ -304,9 +268,9 @@ Live GitHub activity from public profile data. Private repository names and cont
 
 | | |
 |:--|:--|
-| **Current** | The Linux Command Line · SAP S/4HANA: An Introduction |
-| **Next** | SQL Antipatterns · Effective Java |
-| **Later** | Enterprise Integration Patterns · Designing Data-Intensive Applications |
+| **Current** | The Linux Command Line, SAP S/4HANA: An Introduction |
+| **Next** | SQL Antipatterns, Effective Java |
+| **2027** | Enterprise Integration Patterns, Designing Data-Intensive Applications |
 
 </div>
 
@@ -314,7 +278,9 @@ Live GitHub activity from public profile data. Private repository names and cont
 
 <div align="center">
 
-### Backend · APIs · Systems Integration · SAP BTP
+### Working Student IT Developer at Telinage GmbH
+
+**Backend, APIs and Systems Integration**
 
 **Augsburg, Germany**
 
@@ -324,15 +290,14 @@ Live GitHub activity from public profile data. Private repository names and cont
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD5C34,55:12706B,100:0F2A2E&height=130&section=footer" width="100%" />
 
 </div>
 
 <!--
-No GitHub Actions.
-No workflows.
-No generated local SVGs.
-No CI required.
+Working Student IT Developer bei der Telinage GmbH in Augsburg.
+Student der International Information Systems (B.Sc.) an der TH Augsburg.
+Schwerpunkt: Backend-Entwicklung, APIs und Systemintegration.
 -->
