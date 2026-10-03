@@ -1,33 +1,27 @@
-<div align="center">
 
-<img src="https://github.com/OmarMed21.png" width="105" />
+<div align="center">
 
 # Omar Ismail
 
-**Backend · APIs · Systems Integration · Enterprise Software**
+### Backend Engineering · APIs · Systems Integration · Enterprise Software
 
-Augsburg, Germany
-
-<br/>
-
+<img src="https://img.shields.io/badge/Augsburg-Germany-12706B?style=flat-square&logo=googlemaps&logoColor=white" />
 <a href="https://linkedin.com/in/omar-medhat-74930321a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Omar%20Ismail-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://telinage.com">
-  <img src="https://img.shields.io/badge/Telinage-DD5C34?style=flat-square" />
+<img src="https://img.shields.io/badge/Telinage-DD5C34?style=flat-square" />
 </a>
-<img src="https://img.shields.io/badge/TH%20Augsburg-C8102E?style=flat-square" />
+
+<br/><br/>
+
+**Building the systems behind the interface.**
 
 </div>
 
-<br/>
+---
 
-> I like building the parts users don't see:
-> backends, APIs, integrations, databases and infrastructure.
-
-<br/>
-
-## ◈ Stack
+## ⚙️ Stack
 
 <div align="center">
 
@@ -35,15 +29,18 @@ Augsburg, Germany
 
 <br/><br/>
 
-`REST` &nbsp; `OAuth2` &nbsp; `OIDC` &nbsp; `OData` &nbsp; `SAP BTP` &nbsp; `CAP` &nbsp; `Integration Suite` &nbsp; `Cloud Foundry`
+<img src="https://img.shields.io/badge/REST-API-12706B?style=flat-square" />
+<img src="https://img.shields.io/badge/OAuth2-OIDC-DD5C34?style=flat-square" />
+<img src="https://img.shields.io/badge/SAP-BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/SAP-CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/Integration-Suite-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white" />
 
 </div>
 
-<br/>
-
 ---
 
-## ◈ GitHub in 3D
+## 🌃 Contribution City
 
 <div align="center">
 
@@ -55,34 +52,163 @@ Augsburg, Germany
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ◈ Code Activity
+<h3 align="center">⚡ Coding Habits</h3>
 
-<img src="./assets/code-activity.svg" width="100%" />
+<img src="./metrics-habits.svg" width="100%" />
 
 </td>
 
 <td width="50%" valign="top">
 
-### ◈ Current Focus
+<h3 align="center">🛰 Recent Activity</h3>
+
+<img src="./metrics-activity.svg" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 Current Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### Backend
+
+`Java`
+
+`Python`
+
+`SQL`
+
+`PostgreSQL`
+
+`REST APIs`
+
+</td>
+
+<td align="center" width="33%">
+
+### Integration
+
+`OAuth2`
+
+`OIDC`
+
+`OData`
+
+`API Design`
+
+`System Integration`
+
+</td>
+
+<td align="center" width="33%">
+
+### Enterprise
+
+`SAP BTP`
+
+`SAP CAP`
+
+`Integration Suite`
+
+`Cloud Foundry`
+
+`Enterprise Systems`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Supplier Management API
+
+Backend service for supplier master data and enterprise integration scenarios.
+
+`Java` `REST` `PostgreSQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Integration Playground
+
+Hands-on experiments with APIs, authentication and enterprise integration.
+
+`SAP BTP` `CAP` `OAuth2`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎓 Currently
+
+**B.Sc. International Information Systems**  
+Technische Hochschule Augsburg
+
+`Software Engineering` · `Databases` · `Enterprise Systems` · `Business Processes` · `Applied AI`
 
 <br/>
 
-```text
-BACKEND
-├─ Java
-├─ Python
-├─ REST APIs
-└─ PostgreSQL
+🇪🇬 Arabic — Native  
+🇬🇧 English — Fluent  
+🇩🇪 German — B2 → C1
 
-INTEGRATION
-├─ OAuth2 / OIDC
-├─ OData
-└─ System Integration
+---
 
-ENTERPRISE
-├─ SAP BTP
-├─ CAP
-├─ Integration Suite
-└─ Cloud Foundry
+<details>
+
+<summary><b>🧪 Previous Computer Vision & ML Stack</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,cpp,qt" />
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+## 🤝 Connect
+
+<a href="https://linkedin.com/in/omar-medhat-74930321a/">
+<img src="https://img.shields.io/badge/LinkedIn-Omar%20Ismail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+`backend` · `APIs` · `integration` · `enterprise`
+
+</div>
+
+
