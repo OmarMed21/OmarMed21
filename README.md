@@ -229,11 +229,11 @@ Working implementations of integration flows, OAuth2 authentication, and hybrid 
 
 <div align="center">
 
-<img src="./assets/contributions.svg" width="100%" alt="Contribution chart" />
+<img src="https://ghchart.rshah.org/12706B/OmarMed21?v=1006" width="100%" alt="Contribution chart" />
 
 <br/><br/>
 
-<img src="./assets/streak.svg" height="190" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=OmarMed21&hide_border=true&background=0D1117&stroke=21262D&ring=DD5C34&fire=DD5C34&currStreakLabel=12706B&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&v=1006" height="190" alt="GitHub contribution streak" />
 
 <br/><br/>
 
