@@ -1,0 +1,30 @@
+name: Refresh profile stats
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download cards
+        run: |
+          mkdir -p assets
+          TS=$(date +%s)
+          curl -fsSL "https://streak-stats.demolab.com?user=OmarMed21&hide_border=true&background=0D1117&stroke=21262D&ring=DD5C34&fire=DD5C34&currStreakLabel=12706B&sideLabels=8B949E&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF&v=$TS" -o /tmp/streak.svg && mv /tmp/streak.svg assets/streak.svg || echo "streak fetch failed, keeping old file"
+          curl -fsSL "https://ghchart.rshah.org/12706B/OmarMed21?v=$TS" -o /tmp/chart.svg && mv /tmp/chart.svg assets/contributions.svg || echo "chart fetch failed, keeping old file"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || git commit -m "chore: refresh profile stats"
+          git push
