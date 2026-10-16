@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A2E,45:12706B,100:DD5C34&height=210&section=header&text=Omar%20Ismail&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20Development%20and%20Systems%20Integration&descAlignY=54&descSize=17" width="100%" />
 
 
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=12706B&center=true&vCenter=true&width=640&lines=Working+Student+IT+Developer+at+Telinage+GmbH;International+Information+Systems+at+TH+Augsburg;Backend%2C+APIs+and+Systems+Integration;Java+%7C+Python+%7C+SQL+%7C+Linux" alt="Typing SVG" />
 
 <br/><br/>
